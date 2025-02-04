@@ -105,6 +105,10 @@ NETWORKS = {
     "soneium": [
         "minato",
     ],
+    "sonic": [
+        "mainnet",
+        "testnet",
+    ],
     "unichain": [
         "sepolia",
     ],
